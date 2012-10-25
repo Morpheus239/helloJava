@@ -8,7 +8,11 @@ public class Klasse1 {
 	
 	private void test12() {
 		// TODO Auto-generated method stub
-
 	}
+	
+	private void test112(){
+		System.out.println("ubuntu");
+	}
+	
 	
 }
